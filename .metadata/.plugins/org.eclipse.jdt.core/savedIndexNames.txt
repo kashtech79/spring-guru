@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+B:\Spring with guru\.metadata\.plugins\org.eclipse.jdt.core
+548166705.index
